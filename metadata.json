@@ -1,6 +1,0 @@
-{
-  "name": "SpaceBrowser",
-  "description": "A multi-space browser with video downloading capabilities.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
